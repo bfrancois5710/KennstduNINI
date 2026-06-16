@@ -10,10 +10,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-<title> 🍄 MeMorille 🍄</title>
+<title> MemoNINI </title>
 
 
-<title>🍄 MeMorille 🍄</title>
+<title> <3Kennst du NINI<3 </title>
 
 
 
@@ -380,10 +380,10 @@ h1 { margin-top: 20px; }
 
 
 
-<h1> 🍄 🍄MeMorille🍄 🍄</h1>
+<h1> <3Kennst du NINI<3</h1>
 
 
-<h1>🍄 MeMorille 🍄</h1>
+<h1> MeMoNINI </h1>
 
 <div id="moves">Coups : 0</div>
 
@@ -405,7 +405,7 @@ h1 { margin-top: 20px; }
 
 <div id="winScreen">
 
-    <h2>🌟 Maître Morilles 🌟</h2>
+    <h2>🌟 NINIMASTER 🌟</h2>
 
     <img src="victoire.jpg" alt="Victoire">
 
@@ -437,6 +437,16 @@ const images = [
     "4.jpg"
 
 
+    "5.jpg"
+
+
+    "6.jpg"
+
+
+    "7.jpg"
+
+
+
 ];
 
 
@@ -446,7 +456,7 @@ const images = [
 // Images des cartes
 
 
-const images = ["1.jpg","2.jpg","3.jpg","4.jpg"];
+const images = ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg"];
 
 let cardsArray = [...images, ...images];
 
