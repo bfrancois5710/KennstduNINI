@@ -153,7 +153,7 @@ button {
   const app = initializeApp(firebaseConfig);
   const database = getDatabase(app);
 
-  const images = ["1.jpg","2.jpg","3.jpg","4.jpg"];
+  const images = ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg"];
   let cardsArray = [...images, ...images];
   let firstCard, secondCard;
   let lockBoard = false;
