@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>🍄 MeMorille 🍄</title>
+<title><3Kennst du NINI<3</title>
 
 <!-- Google Font Impact-like -->
 <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
@@ -113,7 +113,7 @@ button {
 </head>
 <body>
 
-<h1>🍄 MeMorille 🍄</h1>
+<h1> MeMoNINI </h1>
 <div>
     Pseudo : <input type="text" id="pseudoInput" placeholder="Ton pseudo">
 </div>
@@ -130,7 +130,7 @@ button {
 
 <!-- Écran victoire -->
 <div id="winScreen">
-    <h2>🌟 Maître Morilles 🌟</h2>
+    <h2>🌟 NINI Master 🌟</h2>
     <img src="victoire.jpg" alt="Victoire">
     <button onclick="restartGame()">Rejouer</button>
 </div>
